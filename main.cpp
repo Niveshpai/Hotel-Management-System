@@ -1,11 +1,5 @@
 ///--------------------------------------------------------------------------------------------
-///         OOPS Final project submited by :  Team : 05  (A1 batch)
-///                Name                        Roll                       USN
-///          ----------------------------------------------------------------------------------
-///          1) Varsha Chalageri               128                    01FE19BCS033
-///          2) Nivesh Pai                     129                    01FE19BCS034
-///          3) Shakunthala Koti               134                    01FE19BCS039
-///          4) Suvomoy Maitra                 135                    01FE19BCS040
+///         OOPS Final project submitted by Nivesh Pai               
 ///--------------------------------------------------------------------------------------------
 
 #include <bits/stdc++.h>
